@@ -137,7 +137,7 @@ project-root/
 ## 📖 联系交流
 
 > 可联系交流wx：
-![介绍图](https://github.com/fa1314/ip-human-agent/blob/main/Contact_wx8.png)
+![介绍图](https://github.com/fa1314/ip-human-agent/blob/main/Contact_wx.png)
 
 ---
 ## ⚠️ 已知限制
